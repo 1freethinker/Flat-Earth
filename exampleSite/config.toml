@@ -21,17 +21,9 @@ name = "Token"
 url = "#token"
 weight = 2
 [[Languages.en.menu.main]]
-name = "portfolio"
-url = "#portfolio"
+name = "Proofs"
+url = "#proofs"
 weight = 3
-[[Languages.en.menu.main]]
-name = "team"
-url = "#team"
-weight = 4
-[[Languages.en.menu.main]]
-name = "pricing"
-url = "#pricing"
-weight = 5
 [[Languages.en.menu.main]]
 name = "whitepaper"
 url = "#whitepaper"
@@ -40,20 +32,6 @@ weight = 6
 name = "Contact"
 url = "#contact"
 weight = 7
-[[Languages.en.menu.main]]
-hasChildren = true
-name = "Dropdown"
-weight = 7
-[[Languages.en.menu.main]]
-name = "Dropdown 1"
-parent = "Dropdown"
-url = "#"
-weight = 1
-[[Languages.en.menu.main]]
-name = "Dropdown 2"
-parent = "Dropdown"
-url = "#"
-weight = 2
 [params]
 author = "TJ"
 description = "Flat Earth Coin: The Proof is in the Pudding"
