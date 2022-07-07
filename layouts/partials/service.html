@@ -1,9 +1,9 @@
 {{ $data := index site.Data site.Language.Lang }}
 
-{{ if $data.token.token.enable }}
-{{ with $data.token.token }}
+{{ if $data.service.service.enable }}
+{{ with $data.service.service }}
 {{"<!-- service -->" | safeHTML }}
-<section id="token" class="bg-one section">
+<section id="service" class="bg-one section">
 	<div class="container">
 		<div class="row justify-content-center">
 			<div class="col-lg-12">
