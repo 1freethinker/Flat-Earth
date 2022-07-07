@@ -1,16 +1,21 @@
-############################# About ###################################
+---
 about:
-  enable : true
-  title : About Us
-  about_item :
-  - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
-    title : We're Creative
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
-
-  - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
-    title : We're Professional
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
-
-  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
-    title : We're Genius
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  enable: true
+  title: About
+  about_item:
+  - icon: ''
+    title: We're Creative
+    content: 'Flat Earth Proof (PROOF) is the cryptocurrency which promotes truth.
+      It aims to marry the two most important trends in our lifetime: truth and decentralization.Flat
+      Earth Proof uses the blockchain, considered by many as a truth machine, to help
+      fund truth seeking and to finally shatter one of the greatest lies told to humanity:
+      that we are just a speck of dust in the vast infinite space that was created
+      millions and millions of years ago and is millions and millions of miles big.'
+  - icon: ti-cup
+    title: We're Professional
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil,
+      libero, perspiciatis eos provident laborum eum dignissimos.
+  - icon: ti-thought
+    title: We're Genius
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil,
+      libero, perspiciatis eos provident laborum eum dignissimos.
