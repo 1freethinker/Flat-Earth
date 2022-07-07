@@ -101,7 +101,7 @@ weight = 8
 author = "TJ"
 description = "Flat Earth Coin: The Proof is in the Pudding"
 google_analytics_id = ""
-logo = "images/fatbig-2.png"
+logo = "images/flatbig-2.png"
 post_share = true
 [params.cookies]
 enable = false
