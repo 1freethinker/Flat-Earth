@@ -1,7 +1,7 @@
 {{ $data := index site.Data site.Language.Lang }}
 
-{{ if $data.portfolio.portfolio.enable }}
-{{ with $data.portfolio.portfolio }}
+{{ if $data.proofs.proofs.enable }}
+{{ with $data.proofs.proofs }}
 {{"<!-- Portfolio Section -->" | safeHTML}}
 <section class="portfolio section" id="proofs">
 	<div class="container">
