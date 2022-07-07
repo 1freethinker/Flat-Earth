@@ -7,10 +7,10 @@ service:
     icon: ti-world
     content: To expose lies of Scientism and to challenge humanity to think out of
       the box (or the globe) and to question our “reality.”
-  - name: Responsive Design
+  - name: How to Purchase
     icon: ti-layout
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content: 'Purchase PROOF through this website with Paypal or bitcoin. We are the
+      only authorized distributor of PROOF. '
   - name: Media &amp; Advertisement
     icon: ti-blackboard
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
