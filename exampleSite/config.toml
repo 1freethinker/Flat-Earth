@@ -25,7 +25,7 @@ name = "Proofs"
 url = "#proofs"
 weight = 3
 [[Languages.en.menu.main]]
-name = "whitepaper"
+name = "Whitepaper"
 url = "#whitepaper"
 weight = 6
 [[Languages.en.menu.main]]
