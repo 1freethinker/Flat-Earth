@@ -3,7 +3,7 @@ about:
   enable: true
   title: About
   about_item:
-  - icon: ''
+  - icon: ti-coin
     title: About PROOF
     content: 'Flat Earth Proof (PROOF) is the cryptocurrency which promotes truth.
       It aims to marry the two most important trends in our lifetime: truth and decentralization.Flat
