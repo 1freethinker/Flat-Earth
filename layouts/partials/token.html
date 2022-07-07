@@ -1,7 +1,7 @@
 {{ $data := index site.Data site.Language.Lang }}
 
-{{ if $data.token.token.enable}}
-{{ with $data.token.token}}
+{{ if $data.token.token.enable }}
+{{ with $data.token.token }}
 {{"<!-- service -->" | safeHTML }}
 <section id="token" class="bg-one section">
 	<div class="container">
