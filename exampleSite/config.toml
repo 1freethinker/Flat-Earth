@@ -59,7 +59,7 @@ author = "TJ"
 description = "Flat Earth Coin: The Proof is in the Pudding"
 google_analytics_id = ""
 logo = "images/flatbig-2.png"
-post_share = true
+post_share = false
 social = []
 [params.cookies]
 enable = false
