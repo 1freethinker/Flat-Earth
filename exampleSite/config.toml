@@ -31,7 +31,7 @@ weight = "4"
 [[Languages.en.menu.main]]
 name = "Contact"
 url = "#contact"
-weight = 7
+weight = "5"
 [params]
 author = "TJ"
 description = "Flat Earth Coin: The Proof is in the Pudding"
