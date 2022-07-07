@@ -11,10 +11,10 @@ service:
     icon: ti-layout
     content: 'Purchase PROOF through this website with Paypal or bitcoin. We are the
       only authorized distributor of PROOF. '
-  - name: Media &amp; Advertisement
+  - name: Any Ethereum Wallet
     icon: ti-blackboard
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content: Send and receive PROOF with major Ethereum wallets such as My Etherwallet,
+      Mycrypto and Metamask.
   - name: Graphic Design
     icon: ti-palette
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
