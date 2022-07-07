@@ -22,7 +22,7 @@ url = "#token"
 weight = 2
 [[Languages.en.menu.main]]
 name = "Proofs"
-url = "#proofs"
+url = "#portfolio"
 weight = 3
 [[Languages.en.menu.main]]
 name = "Whitepaper"
