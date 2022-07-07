@@ -19,10 +19,10 @@ service:
     icon: ti-palette
     content: Your purchase of PROOF will be used to further research Flat Earth theory
       and to debunk the globe model.
-  - name: Apps Development
+  - name: Build Community
     icon: ti-package
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content: PROOF can be used within the community to transact with other community
+      members. Buy and sell with PROOF.
   - name: Networking
     icon: ti-pulse
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
