@@ -3,8 +3,8 @@ contact:
   enable: true
   title: 'Contact '
   subtitle: Contact Details
-  content: Feel to contact me for any reason. You would like purchase PROOF, let me
-    know. I would also be willing to donate 1 PROOF to anyone who wants to be part
+  content: Feel to contact me for any reason. If you would like purchase PROOF, let
+    me know. I would also be willing to donate 1 PROOF to anyone who wants to be part
     of the PROOF community.
   contact_list:
   - icon: ti-location-pin
