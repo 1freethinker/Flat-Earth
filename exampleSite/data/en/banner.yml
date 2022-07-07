@@ -5,9 +5,9 @@ banner:
   bg_image: images/backgrounds/hero-area.jpg
   icon: ''
   title: 'Flat Earth: The Proof Is All Around You'
-  content: Open your eyes and your mind. Trust your instincts.Have you ever felt earth
-    spinning and moving thousands of miles per hour or seen any evidence of water
-    and land curving to form a globe shape?What are they hiding?
+  content: "Open your eyes and mind.\nTrust your instincts.\nHave you ever felt earth
+    spinning and moving thousands of miles per hour \nor seen any evidence of water
+    and land curving to form a globe shape?\nWhat are they hiding?"
   button:
     enable: true
     label: Whitepaper
