@@ -27,7 +27,7 @@ weight = 3
 [[Languages.en.menu.main]]
 name = "Whitepaper"
 url = "#whitepaper"
-weight = 6
+weight = "4"
 [[Languages.en.menu.main]]
 name = "Contact"
 url = "#contact"
