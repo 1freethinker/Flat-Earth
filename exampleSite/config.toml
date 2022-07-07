@@ -18,7 +18,7 @@ url = "#about"
 weight = 1
 [[Languages.en.menu.main]]
 name = "Token"
-url = "#token"
+url = "#service"
 weight = 2
 [[Languages.en.menu.main]]
 name = "Proofs"
