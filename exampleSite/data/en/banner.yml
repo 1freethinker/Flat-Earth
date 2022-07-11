@@ -11,4 +11,4 @@ banner:
   button:
     enable: true
     label: Whitepaper
-    link: "#whitepaper"
+    link: "whitepaper/"
